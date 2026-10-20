@@ -1,0 +1,16 @@
+>APT001 theophylline RNA aptamer (multi-line, lowercase, spaces)
+ggcgauacca gccgaaaggc
+ccuuggcagc guc
+>APT002 ATP DNA aptamer (5'/3' labels, tab)
+5'-ACCTGGGGGA	GTATTGCGGA GGAAGGT-3'
+>APT003 malachite green RNA aptamer (numbered like a paper figure)
+1 GGAUCCCGAC UGGCGAGAGC 20
+21 CAGGUAACGA AUGGAUCC 38
+>APT004 example with T and U mixed (typo in source)
+GGACTGUCAAGGTUCCAGTCC
+>APT005 example with no T or U
+GGGCCCAGAGCGCAGCGGGCCC
+>APT006 duplicate of APT002
+ACCTGGGGGAGTATTGCGGAGGAAGGT
+>APT007 too short
+ACGU
