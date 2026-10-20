@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this workflow, please cite it as below."
+title: "Aptamer Curation Pipeline: a literature-to-dataset workflow for small-molecule aptamers"
+authors:
+  - family-names: Ghosh
+    given-names: Aditi
+repository-code: "https://github.com/AditiG475/aptamer-curation-pipeline"
+license: MIT
+version: 1.0.0
+date-released: 2026-10-20
+keywords:
+  - aptamers
+  - bioinformatics
+  - cheminformatics
+  - RNA secondary structure
+  - data curation
