@@ -1,0 +1,6 @@
+entry_id,target,molecule_type,sequence,paper_title,journal,year,binding_text
+APT001,Theophylline,RNA,GGCGAUACCAGCCGAAAGGCCCUUGGCAGCGUC,High-resolution molecular discrimination by RNA,Science,1994,"The selected aptamer bound theophylline with a dissociation constant (Kd) of 0.32 µM."
+APT002,ATP,DNA,ACCTGGGGGAGTATTGCGGAGGAAGGT,A DNA aptamer that binds adenosine and ATP,Biochemistry,1995,"Binding to ATP was measured by equilibrium filtration, giving Kd = 6 uM."
+APT003,Malachite green,RNA,GGAUCCCGACUGGCGAGAGCCAGGUAACGAAUGGAUCC,RNA-aptamer motifs for specific binding to malachite green,Proceedings of the National Academy of Sciences,1999,"Fluorescence titration indicated a Kd of 117 nM for the dye."
+APT004,Magnesium chloride,RNA,GGCGAUACCAGCCGAAAGGCCCUUGGCAGCGUC,Synthetic example row (buffer component),Sensors,2020,"Assays were performed in 5 mM MgCl2; no binding constant reported."
+APT005,Glycerol,RNA,GGAUCCCGACUGGCGAGAGCCAGGUAACGAAUGGAUCC,Synthetic example row (crystallisation additive),Journal of Agricultural and Food Chemistry,2021,"Crystals were grown with 20% glycerol; apparent KD 2.5 mM was not specific."
