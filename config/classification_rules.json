@@ -1,0 +1,13 @@
+{
+  "ligand_roles": {
+    "Buffer / salt component": ["sodium", "potassium", "magnesium", "calcium", "chloride", "tris", "hepes", "phosphate"],
+    "Crystallographic additive": ["glycerol", "peg", "polyethylene glycol", "mpd", "ethylene glycol", "sulfate"]
+  },
+  "default_ligand_role": "Biological target",
+  "journal_tiers": {
+    "High-impact": ["nature", "science", "cell", "proceedings of the national academy of sciences", "pnas", "journal of the american chemical society", "jacs"],
+    "Specialized": ["rna", "biochemistry", "nucleic acids research", "nucleic acid therapeutics"],
+    "Applied": ["sensors", "biosensors", "journal of agricultural and food chemistry", "food chemistry", "analytical chemistry", "talanta"]
+  },
+  "default_journal_tier": "Unclassified"
+}
